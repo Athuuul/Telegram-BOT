@@ -9,8 +9,8 @@ import json
 import sys
 
 # === CONFIG ===
-TELEGRAM_BOT_TOKEN = '8264367945:AAG8RUm7Ng1mPwz6zO4Xc1hQvUazLFZsLpY'
-GEMINI_API_KEY = 'AIzaSyACBqUYOt9NOHx7SDWaCYFJV-aTE6kz24c'
+TELEGRAM_BOT_TOKEN = ''
+GEMINI_API_KEY = ''
 LOG_FILE = "chat_logs.jsonl"
 
 # === Gemini Config ===
